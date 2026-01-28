@@ -9,7 +9,7 @@ Each book is categorized by topic.
 ## 🟦 Python (Core + Intermediate)
 
 ### **1. _Python Crash Course_ — Eric Matthes**
-📄 [Open PDF](D:\HP\python-ml-learning-2026\books\Python-Crash-Course.pdf)
+📄 [Open PDF](books\Python-Crash-Course.pdf)
 - Beginner-to-intermediate level
 - Covers functions, loops, files, classes, and projects
 - Highly recommended for Week 1
