@@ -15,6 +15,7 @@ Each book is categorized by topic.
 - Highly recommended for Week 1
 
 ### **2. _Automate the Boring Stuff with Python_ — Al Sweigart**
+📄 [Open PDF](Automate the Boring Stuff with Python — Al Sweigart.pdf)
 - Best practical book for applied Python
 - Covers automation, file handling, CSV/JSON, web scraping
 - Free online version available
@@ -24,11 +25,13 @@ Each book is categorized by topic.
 ## 🟥 Object-Oriented Programming (OOP)
 
 ### **3. _Fluent Python_ — Luciano Ramalho**
+📄 [Open PDF](Fluent Python.pdf)
 - Intermediate to advanced
 - Deep dive into Pythonic OOP, special methods, iterators, classes
 - Recommended for Week 2
 
 ### **4. _Head First Object-Oriented Analysis & Design_**
+📄 [Open PDF](Head First Object Oriented Analysis and Design Nov 2006.pdf)
 - Visual, easy-to-understand
 - Great introduction to real-world OOP and design patterns
 - Perfect for building intuition
@@ -38,6 +41,7 @@ Each book is categorized by topic.
 ## 🟩 Data Analysis (Pandas)
 
 ### **5. _Python for Data Analysis_ — Wes McKinney**
+📄 [Open PDF](Python-for-Data-Analysis.pdf)
 - Written by the creator of Pandas
 - Covers data manipulation, cleaning, time series, and NumPy
 - Used heavily during Week 3
@@ -47,6 +51,8 @@ Each book is categorized by topic.
 ## 🟧 Machine Learning (Core)
 
 ### **6. _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ — Aurélien Géron**
+📄 [Open PDF](Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems
+.pdf)
 - The best practical ML book available
 - Covers:
   - ML basics
@@ -57,6 +63,7 @@ Each book is categorized by topic.
   - Intro to deep learning
 
 ### **7. _Introduction to Statistical Learning (ISL)_**
+
 - Classic ML textbook
 - Free PDF
 - Excellent for ML theory, math intuition, and model fundamentals
